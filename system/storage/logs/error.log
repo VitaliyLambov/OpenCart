@@ -1,0 +1,10 @@
+2020-02-20 11:56:58 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'ocstoredb' in D:\Server\OSPanel\domains\ocStore\system\library\db\mysqli.php on line 7
+2020-02-20 11:56:58 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Server\OSPanel\domains\ocStore\system\library\db\mysqli.php on line 10
+2020-02-20 11:56:58 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Server\OSPanel\domains\ocStore\system\library\db\mysqli.php on line 10
+2020-02-20 11:56:58 - PHP Notice:  Undefined variable: mysql in D:\Server\OSPanel\domains\ocStore\install\controller\install\step_3.php on line 281
+2020-02-20 11:56:58 - PHP Notice:  Trying to get property 'connect_error' of non-object in D:\Server\OSPanel\domains\ocStore\install\controller\install\step_3.php on line 281
+2020-02-20 11:57:20 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'ocstoredb' in D:\Server\OSPanel\domains\ocStore\system\library\db\mysqli.php on line 7
+2020-02-20 11:57:20 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Server\OSPanel\domains\ocStore\system\library\db\mysqli.php on line 10
+2020-02-20 11:57:20 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Server\OSPanel\domains\ocStore\system\library\db\mysqli.php on line 10
+2020-02-20 11:57:20 - PHP Notice:  Undefined variable: mysql in D:\Server\OSPanel\domains\ocStore\install\controller\install\step_3.php on line 281
+2020-02-20 11:57:20 - PHP Notice:  Trying to get property 'connect_error' of non-object in D:\Server\OSPanel\domains\ocStore\install\controller\install\step_3.php on line 281
